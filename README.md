@@ -1,7 +1,7 @@
 # Remote-Control-PC-Android-App
 Remote Control PC - Android App , project is an android app project for remotely control any desktop.
 
-# Remote Control PC
+# Remote Control PC - Android App
 
 Use your Android phone to control your Laptop.
 
@@ -18,11 +18,11 @@ Use your Android phone to control your Laptop.
 9. Fetch your laptop screen to Android (only single click supported)
 10. Browse Android files on Desktop (View and Download)
 
-### Android app link
-[![Android App](./screenshots/google-play.png)](https://play.google.com/store/apps/details?id=me.varunon9.remotecontrolpc)
+### Android app apk link
+https://github.com/MdAnayatullah/Remote-Control-PC-Android-App/blob/main/RemoteControlPC-Studio/app/app-release.apk
 
 ### Desktop app link
-https://github.com/varunon9/Remote-Control-PC/blob/master/RemoteControlPC-JavaFXML/store/RemoteControlPC.jar
+https://github.com/MdAnayatullah/Remote-Control-PC-Android-App/blob/main/RemoteControlPC-Libraries/dist/RemoteControlPC-Libraries.jar
 
 ## How does it work?
 
@@ -51,7 +51,7 @@ You need Java 8
 6. Make sure you have Java 8 installed (hit `java -version`) 
 
 ### How to start android app?
-1. Install apk from /Remote-Control-PC/RemoteControlPC-Studio/app/build/outputs/apk/app-debug.apk
+1. Install apk from /Remote-Control-PC-Android-App/blob/main/RemoteControlPC-Studio/app/app-release.apk
 2. Connect your laptop with your phone via hotspot (or any local network)
 3. Start Desktop app
 4. Enter connection details shown on Desktop
@@ -86,10 +86,8 @@ Desktop part of this project has been developed in Netbeans(Java-FXML) while tha
     1. Right click on project 
     2. Click Properties
     3. Click Libraries
-    4. Add JAR/Folder -> Select jar from /path/to/repository/RemoteControlPC-Libraries/dist/RemoteControlPC-Libraries.jar
+    4. Add JAR/Folder -> Select jar from /Remote-Control-PC-Android-App/blob/main/RemoteControlPC-Libraries/dist/RemoteControlPC-Libraries.jar
 
-#### To see working demo on youtube watch this video:
-* https://youtu.be/6jIQcAVqD24
 
 #### Testing of android app:
 * Android 4.2.2 Samsung(GT-S7582)
@@ -98,7 +96,7 @@ Desktop part of this project has been developed in Netbeans(Java-FXML) while tha
 * Android 7, API 24 (Emulator)
 
 ### Releases:
-* https://github.com/varunon9/Remote-Control-PC/releases
+*https://github.com/MdAnayatullah/Remote-Control-PC-Android-App/release
 
-#### For query/issues open Github issue or contact: varunon9@gmail.com
+#### For query/issues open Github issue or contact: mdanayatullah143@gmail.com
 
