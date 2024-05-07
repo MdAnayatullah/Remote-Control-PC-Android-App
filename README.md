@@ -63,7 +63,7 @@ You need Java 8
 |![Image Viewer Screen](./screenshots/image-viewer.png) | ![File Transfer Screen](./screenshots/file-transfer.png)|
 |![Presentation Screen](./screenshots/presentation.png) | ![Power Off Screen](./screenshots/power-off.png)|
 |![Downloading File Screen](./screenshots/file-download.png) | ![Music Control Screen](./screenshots/music-control.png)|
-|![Desktop App](./screenshots/server2.png) |![Desktop Image Viewer](./screenshots/server3.png) |
+|![Desktop App](./screenshots/server1.png) |![Desktop Image Viewer](./screenshots/server2.png) |
 
 ## How to contribute?
 Desktop part of this project has been developed in Netbeans(Java-FXML) while that of Android part in Android-Studio.
