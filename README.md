@@ -57,13 +57,13 @@ You need Java 8
 ## Screenshots
 |  |  |
 | --- | --- |
-|![Live Screen](./screenshots/live-screen.png) | ![Connection Screen](./screenshots/connect.png)|
-|![Touchpad Screen](./screenshots/touchpad.png) | ![Navigation Screen](./screenshots/navigation-drawer.png)|
+|![Live Screen](./screenshots/android2.jpg) | ![Connection Screen](./screenshots/server1.png)|
+|![Touchpad Screen](./screenshots/android9.jpg) | ![Navigation Screen](./screenshots/navigation-drawer.png)|
 |![Typing Screen](./screenshots/keyboard.png) | ![Media Player Screen](./screenshots/media-player.png)|
 |![Image Viewer Screen](./screenshots/image-viewer.png) | ![File Transfer Screen](./screenshots/file-transfer.png)|
 |![Presentation Screen](./screenshots/presentation.png) | ![Power Off Screen](./screenshots/power-off.png)|
 |![Downloading File Screen](./screenshots/file-download.png) | ![Music Control Screen](./screenshots/music-control.png)|
-|![Desktop App](./screenshots/desktop.png) |![Desktop Image Viewer](./screenshots/desktop-image-viewer.png) |
+|![Desktop App](./screenshots/desktop.png) |![Desktop Image Viewer](./screenshots/desktop.png) |
 
 ## How to contribute?
 Desktop part of this project has been developed in Netbeans(Java-FXML) while that of Android part in Android-Studio.
