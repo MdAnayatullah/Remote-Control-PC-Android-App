@@ -60,6 +60,7 @@ You need Java 8
 |![Live Screen](./screenshots/android2.jpg) | ![Connection Screen](./screenshots/android10.jpg)|
 |![Touchpad Screen](./screenshots/android9.jpg) | ![Navigation Screen](./screenshots/navigation-drawer.png)|
 |![Typing Screen](./screenshots/android3.jpg) | ![Media Player Screen](./screenshots/media-player.png)|
+|![Live Screen](./screenshots/android5.jpg) |
 |![Image Viewer Screen](./screenshots/image-viewer.png) | ![File Transfer Screen](./screenshots/file-transfer.png)|
 |![Presentation Screen](./screenshots/presentation.png) | ![Power Off Screen](./screenshots/power-off.png)|
 |![Downloading File Screen](./screenshots/file-download.png) | ![Music Control Screen](./screenshots/music-control.png)|
